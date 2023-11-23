@@ -1,8 +1,5 @@
 //Notes for the branch note and I will unite these two branches with a help of cherry-pick or git merge
 
-
-
-
 <template>
     <div class="notes">
         <div class="container">
